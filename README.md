@@ -9,6 +9,7 @@ If you want to start a DITA project from zero, obeying such a structure may help
 
 Let's try to take a look at the resources which comprise this project:
 
+- "talking-circle.ditamap" - The main project DITA Map. In our case it's a small example DITA Map discussing about an hypothetical software application.
 - "filters" - This folder contains all DITAVAL filter files which are used to obtain various outputs from the project contents. 
 - "images" - This folder contains all image files used in the project. You can add various subfolders to it.  
 - "links" - This folder contains various link-related mappings: 
@@ -21,4 +22,4 @@ Let's try to take a look at the resources which comprise this project:
     - "reusableProductNames.ditamap" - Defines small pieces of text which can be reused using keyref.
     - "reusables.ditamap" - Binds together all these resources, assigns a key for the reusable components topic. 
 - "tasks, topics, concepts, references, etc" - Folders which contain the actual DITA content, either split in subfolders by topic type or by some other project-specific role.
-- "talking-circle.ditamap" - The main project DITA Map. In our case it's a small example DITA Map discussing about an hypothetical software application.
+
