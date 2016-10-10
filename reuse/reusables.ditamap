@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Reusables</title>
+ <!-- Mapping between key definitions and various product names used in the manual. -->
+ <mapref href="reusableProductNames.ditamap"/>
+ <!-- Reusable image references -->
+ <mapref href="reusableImageReferences.ditamap"/>
+ <!-- Topic containing various reusable components -->
+ <keydef keys="reusables" href="reusableComponents.dita"/>
+</map>

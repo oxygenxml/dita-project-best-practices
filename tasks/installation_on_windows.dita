@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="installation_on_windows">
+  <title>Installation on Windows</title>
+  <shortdesc>This task describes how to install the desktop version of the <keyword keyref="product"
+    /> messenging application on Windows.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Follow the steps to install the software on a Windows 10 platform.</p>
+      <p conkeyref="reusables/unistall_advice"/>
+    </context>
+    <steps>
+      <step>
+        <cmd>Download the installation kit <xref keyref="mainWebSite"/></cmd>
+      </step>
+      <step>
+        <cmd>Extract the archive</cmd>
+      </step>
+      <step>
+        <cmd>Run the <filepath>talkingcircle.exe</filepath> installer</cmd>
+      </step>
+      <step>
+        <cmd>Choose <uicontrol>default</uicontrol> when asked for installation options.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

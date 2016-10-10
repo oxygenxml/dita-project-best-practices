@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reusableComponents">
+  <title>Reusable Components</title>
+  <body>
+    <table frame="all" rowsep="1" colsep="1">
+      <title>Components Table</title>
+      <tgroup cols="2">
+        <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+        <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+        <thead>
+          <row>
+            <entry>Component</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <p id="unistall_advice">In case you have an older version installed on your system,
+                make sure you uninstall it first. Leave the settings in place, as they are used by
+                the newer version.</p>
+            </entry>
+            <entry>Uninstall advice. Advice given when you want to install a new version of the
+              product.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

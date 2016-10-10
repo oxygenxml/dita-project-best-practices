@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Relationship table</title>
+ <reltable>
+  <relrow>
+   <relcell>
+    <topicref keyref="windows_installation"/>
+   </relcell>
+   <relcell>
+    <topicref keyref="mac_installation"/>
+   </relcell>
+  </relrow>
+ </reltable>
+</map>

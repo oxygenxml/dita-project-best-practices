@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>External Links Key Definitions</title>
+ <keydef keys="mainWebSite" href="http://sample.talkingcircle.com" format="html" scope="external">
+  <topicmeta>
+   <navtitle>Talking Circle Web Site</navtitle>
+  </topicmeta>
+ </keydef>
+</map>

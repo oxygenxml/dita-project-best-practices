@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Keys for various linked topics</title>
+ <keydef keys="windows_installation" href="../tasks/installation_on_windows.dita"/>
+ <keydef keys="mac_installation" href="../tasks/installation_on_mac.dita"/>
+</map>
