@@ -1,6 +1,11 @@
 # dita-reuse-best-practices
-A small DITA project skeleton exemplifying best practices to reuse content and to manage links.
-If you want to start a DITA project from zero, obeying such a structure may help you in growing a 
+A small DITA project skeleton exemplifying best practices to reuse content and to manage links. The project favors using DITA 1.2 keyref indirect links over direct DITA 1.1 links.
+
+If you want to start a DITA project from zero, obeying such a structure may help you in:
+
+1. Growing the project in a healthy sustainable way.
+2. Give you a good overview over what you are reusing. 
+3. Allow easier link management.
 
 Let's try to take a look at the folder which comprise this project:
 
