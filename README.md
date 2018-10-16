@@ -23,3 +23,8 @@ Let's try to take a look at the resources which comprise this project:
     - "reusables.ditamap" - Binds together all these resources, assigns a key for the reusable components topic. 
 - "tasks, topics, concepts, references, etc" - Folders which contain the actual DITA content, either split in subfolders by topic type or by some other project-specific role.
 
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/dita-project-best-practices/blob/master/LICENSE)
