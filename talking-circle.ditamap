@@ -3,8 +3,8 @@
 <map>
  <title><ph keyref="product"/></title>
  <topicref href="topics/installation.dita">
-  <topicref href="tasks/installation_on_windows.dita"/>
-  <topicref href="tasks/installation_on_mac.dita"/>
+  <topicref keyref="windows_installation"/>
+  <topicref keyref="mac_installation"/>
  </topicref>
  <topicref href="topics/ui.dita">
   <topicref href="topics/login_screen.dita"/>
